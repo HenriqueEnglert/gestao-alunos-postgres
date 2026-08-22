@@ -1,0 +1,2 @@
+# Dependência para conexão com o PostgreSQL
+psycopg[binary]>=3.1.8
